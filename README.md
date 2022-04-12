@@ -1,0 +1,2 @@
+# installing-Minecraft-alpha-1.0.16_02-on-pojavlauncher
+Hi guys I am going to tell you how to install Minecraft alpha 1.0.16_02 on pojavlauncher  first open pojavlauncher then open zarchiver then go on games folder then on pojavlauncher then on . Minecraft then on versions then create new folder a1.0.16_02 then copy both downloaded files then paste them on a1.0.16_02 folder then open pojavlauncher then find a1.0.16_02 and play
